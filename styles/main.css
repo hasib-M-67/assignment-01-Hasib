@@ -88,3 +88,43 @@
 .btn-different:hover{
     background-color: #075f2b;
 }
+
+
+
+/* notes section css */
+#notes-section-container{
+    text-align: center;
+}
+.notes-title{
+    margin: 100px 0 50px 0;
+}
+.notes-title h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+.notes-title p{
+    font-size: 18px;
+    color: #474747;
+}
+.notes-card-container{
+    display: flex;
+    align-items: center;
+    max-width: 90%;
+    gap: 50px;
+    margin: 0 auto;
+}
+.notes-card i{
+    color: #fff;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 100%;
+    background-color: #F95555;
+}
+.notes-card h2{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.notes-card p{
+    color: #474747;
+}
