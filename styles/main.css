@@ -128,3 +128,44 @@
 .notes-card p{
     color: #474747;
 }
+
+
+
+/* solution area css */
+#solution-section-container-id{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    width: 1360px;
+    margin: 0 auto;
+    gap: 160px;
+    margin-top: 130px;
+}
+.solution-section-text-container h4{
+    color: #474747;
+    margin-bottom: 20px;
+}
+.solution-section-text-container h1{
+    font-size: 35px;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+.solution-section-text-container p{
+    color: #474747;
+    margin-bottom: 20px;
+}
+.feature-area-container{
+
+}
+.feature-text{
+    display: flex;
+    gap: 5px;
+    /* align-items: center; */
+}
+.feature-text i{
+    color: green;
+}
+.feature-text p{
+    color: black;
+    font-size: 18px;
+}
