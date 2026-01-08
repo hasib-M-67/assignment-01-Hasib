@@ -190,3 +190,28 @@
 .early-access-text-container button{
     margin-bottom: 10px;
 }
+
+
+/* footer section css */
+footer{
+    background-color: #001931;
+    margin-top: 130px;
+}
+.footer-elements-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 120px 120px 164px 120px;
+}
+.social-links-container{
+    color: white;
+    text-align: center;
+}
+.social-links-container p{
+    margin-bottom: 20px;
+}
+.copyright-area{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: 15px 0;
+}
