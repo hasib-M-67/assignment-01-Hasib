@@ -1,3 +1,40 @@
-body{
-    background-color: green;
+*{
+    margin: 0;
+}
+
+/* Shared styles */
+.btn{
+    padding: 13px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: #30B868;
+    color: white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #075f2b;
+}
+
+
+
+
+
+/* navbar section css */
+#navbar-container-id{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0 20px 0;
+}
+#navbar-container-id ul{
+    display: flex;
+    gap: 32px;
+}
+#navbar-container-id ul li{
+    list-style: none;
+}
+#navbar-container-id ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
 }
