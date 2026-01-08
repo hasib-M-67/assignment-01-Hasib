@@ -169,3 +169,24 @@
     color: black;
     font-size: 18px;
 }
+
+
+/* early access area css */
+#early-access-section-id{
+    margin-top: 130px;
+}
+.early-access-text-container{
+    text-align: center;
+}
+.early-access-text-container h1{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.early-access-text-container p{
+    color: #474747;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.early-access-text-container button{
+    margin-bottom: 10px;
+}
